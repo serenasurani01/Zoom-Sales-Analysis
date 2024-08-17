@@ -22,4 +22,6 @@ Plan Regions: Asia Pacific (APAC), Europe, Middle East, Africa (EMEA), North Ame
 * Yearly plan sales experienced rapid growth at the beginning of 2020, with steady and periodic increases continuing until mid-2021. Initially, yearly plans made up 90% of total sales, but this share sharply declined by July 2021. During the same period, sales from monthly plans surged significantly, likely driven by Enterprise customers transitioning to Pro monthly subscriptions. From Q3 2021 to Q4 2022, sales were evenly split between yearly and monthly plans.
 
 ### Region
+* In early 2020, North America dominated the sales. However, from May 2020 to May 2021, sales from all regions contributed equally to the total. By mid-2021, sales from North America surged, accounting for 40% of total sales. While EMEA experienced steady, slow growth during this period, sales in South America and APAC saw a gradual decline.
 
+## Recommendations & Next Steps
